@@ -21,7 +21,8 @@
 6. Import the provided SQL file, which is named DATABASE appointment.sql and is located inside the source code root folder.
 7. Browse the Appointment System in a browser, i.e. http://localhost/appointment_booking/.
 
-Demo video: https://drive.google.com/file/d/15h7RCopOpSpjM1hsCi9cWLWLkZlyPFFW/view?usp=sharing
+## Demo video: 
+Find the Demo Video here: https://drive.google.com/file/d/15h7RCopOpSpjM1hsCi9cWLWLkZlyPFFW/view?usp=sharing
 
 
 
